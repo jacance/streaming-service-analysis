@@ -14,7 +14,7 @@ Datasets from kaggle.com include:
 - Movies available on Netflix, Hulu, Prime Video, and Disney+
 - All Oscar Awards between 1927 - 2020
 
-Questions we answered in our Jupyter Notebook and slide deck:
+Questions we answered in our Jupyter Notebook and Presentation deck:
 - What is the total number of movies across each platform in the United States?
 - What are the top genres for each streaming service?
 - Which service has the highest number of recently released movies (past 5 years)?
