@@ -1,6 +1,9 @@
 # Primeflix Plus+
 An analysis by Paola Lopez, Tara Madhyasta, & Justin Acance
 
+![Alt text](Images/logo.png?raw=true "Title")
+
+
 ## Introduction
 In March 2020, the World Health Organization declared COVID-19 a global pandemic.
 With the United States setting new records for positive cases each day, people are being asked to shelter in place as much as possible.
